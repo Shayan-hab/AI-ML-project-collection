@@ -18,34 +18,6 @@ This project is a **machine learning-based regression system** that predicts cro
 In supervised learning, regression problems are those where the output variable is a continuous numerical value. Since our dataset contains numerical yield values, this project fits into the regression category.
 
 ---
-
-## 📊 Dataset Overview
-
-- The dataset includes data from **101 countries**.
-- It contains various features like:
-  - Year
-  - Average rainfall (mm/year)
-  - Pesticide usage (tonnes)
-  - Average temperature (°C)
-  - Country/Region (Area)
-  - Crop Type (Item)
-  - Yield (target/output)
-
-### 🌿 Crop Types in Dataset
-
-The system supports prediction for the following crops:
-
-- Maize (مکئی)
-- Rice, paddy
-- Potato
-- Sorghum (جوار)
-- Soybeans (سویابین)
-- Wheat
-- Cassava
-- *(And others if available)*
-
----
-
 ## 🛠 Features and Technologies
 
 - **Python**
