@@ -8,8 +8,6 @@ Welcome to my collection of Artificial Intelligence and Machine Learning project
 
 This project is a **machine learning-based regression system** that predicts crop yield based on various environmental and agricultural features. It leverages data such as rainfall, temperature, pesticide use, country, and crop type to forecast the expected crop yield.
 
----
-
 ## 📌 Project Type
 
 - **Supervised Machine Learning**
@@ -17,12 +15,19 @@ This project is a **machine learning-based regression system** that predicts cro
 
 In supervised learning, regression problems are those where the output variable is a continuous numerical value. Since our dataset contains numerical yield values, this project fits into the regression category.
 
----
 ## 🛠 Features and Technologies
 
 - **Python**
 - **Flask** (Web framework)
 - **Pandas, NumPy, Scikit-learn** (Data processing and ML)
-- **HTML5 + Bootstrap** (Frontend UI)
+- **HTML5 + Bootstrap + CSS** (Frontend UI)
 
+### Models Used
+
+- Linear Regression
+- Lasso
+- Ridge
+- K-Neighbors Regressor
+- Decision Tree Regressor
+---
 
