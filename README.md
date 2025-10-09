@@ -42,8 +42,6 @@ Classification Problem
 
 In supervised learning, classification problems are those where the output variable is **categorical** — such as "Placed" or "Not Placed". Logistic Regression is ideal for binary classification tasks like this one.  
 
----
-
 🛠 **Features and Technologies**  
 - **Python**  
 - **Jupyter Notebook** (Development environment)  
@@ -51,12 +49,8 @@ In supervised learning, classification problems are those where the output varia
 - **Matplotlib**, **Seaborn** → Data visualization and analysis  
 - **Scikit-learn (sklearn)** → Model building, training, and evaluation  
 
----
-
 🤖 **Model Used**  
 - Logistic Regression  
-
----
 
 📊 **Workflow Steps**  
 1. Data Loading and Cleaning  
@@ -67,11 +61,9 @@ In supervised learning, classification problems are those where the output varia
 6. Model Evaluation (Accuracy, Confusion Matrix, Classification Report)  
 7. Prediction on New Data (IQ & CGPA inputs)  
 
----
-
 🎯 **Objective**  
 To develop a reliable predictive model that helps determine the **likelihood of student placement** based on key academic and intelligence indicators.  
-
+---
 
 
 
