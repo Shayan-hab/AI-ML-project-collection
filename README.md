@@ -32,4 +32,4 @@ In supervised learning, regression problems are those where the output variable 
 ---
 
 
-### 1 🎓 Placement Prediction System
+### 2 🎓 Placement Prediction System
