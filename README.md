@@ -60,9 +60,6 @@ In supervised learning, classification problems are those where the output varia
 5. Model Training using Logistic Regression  
 6. Model Evaluation (Accuracy, Confusion Matrix, Classification Report)  
 7. Prediction on New Data (IQ & CGPA inputs)  
-
-🎯 **Objective**  
-To develop a reliable predictive model that helps determine the **likelihood of student placement** based on key academic and intelligence indicators.  
 ---
 
 
