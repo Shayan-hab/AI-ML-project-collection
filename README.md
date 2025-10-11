@@ -97,11 +97,16 @@ It was selected as the final model for deployment.
 ## 📊 Dataset Overview
 - **Total Records:** 10,781  
 - **Features:**  
-  `model`, `year`, `mileage`, `transmission`, `fuelType`, `tax`, `mpg`, `engineSize`, and price
+  `model`, `year`, `mileage`, `transmission`, `fuelType`, `tax`, `mpg`, `engineSize`, and `price`
 
 The dataset contains structured information about BMW vehicles, useful for analyzing pricing trends and predicting resale values.
 
+## 🌐 Web Application Functionality
+- Users input car details such as **model**, **year**, **mileage**, **fuel type**, and **transmission**
+- The app encodes these inputs, processes them, and predicts the **estimated car price**
+- The interface is designed with **HTML** and **CSS** for a simple and elegant look
 
+---
 
 
 
