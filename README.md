@@ -65,6 +65,9 @@ In supervised learning, classification problems are those where the output varia
 ### 3 🚘 BMW Car Price Prediction System
 
 
+This project is a **machine learning-based regression system** that predicts the **price of BMW cars** based on various specifications such as model, year, mileage, engine size, and fuel type.  
+It aims to help users estimate the resale value of BMW vehicles using real-world data and advanced machine learning techniques.
+
 
 
 
