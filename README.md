@@ -69,7 +69,6 @@ This project is a **machine learning-based regression system** that predicts the
 It aims to help users estimate the resale value of BMW vehicles using real-world data and advanced machine learning techniques.
 
 ## 📌 Project Type
-
 **Supervised Machine Learning**  
 **Regression Problem**
 
