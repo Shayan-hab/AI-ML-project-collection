@@ -75,6 +75,10 @@ It aims to help users estimate the resale value of BMW vehicles using real-world
 In supervised learning, regression problems aim to predict a **continuous numerical value**.  
 Since our target variable (car price) is continuous, this project belongs to the regression category.
 
+## 🧠 Problem Statement
+Car prices depend on multiple factors such as mileage, age, engine size, and model type.  
+Manually estimating the right value can be difficult.  
+This project uses **machine learning** to predict a fair market price for BMW vehicles based on these features.
 
 
 
