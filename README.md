@@ -68,7 +68,12 @@ In supervised learning, classification problems are those where the output varia
 This project is a **machine learning-based regression system** that predicts the **price of BMW cars** based on various specifications such as model, year, mileage, engine size, and fuel type.  
 It aims to help users estimate the resale value of BMW vehicles using real-world data and advanced machine learning techniques.
 
+## 📌 Project Type
+**Supervised Machine Learning**  
+**Regression Problem**
 
+In supervised learning, regression problems aim to predict a **continuous numerical value**.  
+Since our target variable (car price) is continuous, this project belongs to the regression category.
 
 
 
