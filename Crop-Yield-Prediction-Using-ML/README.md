@@ -1,4 +1,4 @@
-### 1 🌾 Crop Yield Prediction System
+### 🌾 Crop Yield Prediction System
 
 This project is a **machine learning-based regression system** that predicts crop yield based on various environmental and agricultural features. It leverages data such as rainfall, temperature, pesticide use, country, and crop type to forecast the expected crop yield.
 
