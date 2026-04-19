@@ -1,4 +1,4 @@
-### 3 🚘 BMW Car Price Prediction System
+### 🚘 BMW Car Price Prediction System
 
 
 This project is a **machine learning-based regression system** that predicts the **price of BMW cars** based on various specifications such as model, year, mileage, engine size, and fuel type.  
