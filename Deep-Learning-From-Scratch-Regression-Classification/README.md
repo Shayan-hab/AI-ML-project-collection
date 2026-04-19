@@ -1,4 +1,4 @@
-# 🧠 Deep Learning Assignment #02
+# 🧠 Deep Learning 
 
 ### Polynomial Regression & Multiclass Logistic Regression (From Scratch)
 
