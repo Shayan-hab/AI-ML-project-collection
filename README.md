@@ -1,6 +1,6 @@
 # 🧠 Awesome AI & ML Projects
 
-Welcome to my collection of Artificial Intelligence and Machine Learning projects! This repository contains various projects I've developed to explore different algorithms, models, and applications within the AI/ML/Deep Learning domain.
+Welcome to my collection of Artificial Intelligence, Machine Learning and Deep Learning projects! This repository contains various projects I've developed to explore different algorithms, models, and applications within the AI/ML/Deep Learning domain.
 
 ## 📁 Projects Included
 
@@ -10,5 +10,5 @@ Welcome to my collection of Artificial Intelligence and Machine Learning project
 
 ### 3 🚘 BMW Car Price Prediction System
 
-
+### 4 Polynomial Regression & Multiclass Logistic Regression (From Scratch)
 
