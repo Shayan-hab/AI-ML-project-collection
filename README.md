@@ -10,5 +10,5 @@ Welcome to my collection of Artificial Intelligence, Machine Learning and Deep L
 
 ### 3 🚘 BMW Car Price Prediction System
 
-### 4 Polynomial Regression & Multiclass Logistic Regression (From Scratch)
+### 4    Polynomial Regression & Multiclass Logistic Regression (From Scratch)
 
